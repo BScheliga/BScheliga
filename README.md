@@ -26,5 +26,5 @@ Metadata
 <img align="left" alt="QGIS" width="26px" src="https://gis-ops.com/wp-content/uploads/2019/12/qgis_logo.png" />
 <img align="left" alt="ESRI ArcGIS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" />  
 
-
+ 
 <img align="left" alt="Bernhard's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BScheliga&show_icons=true&hide_border=true" />  
