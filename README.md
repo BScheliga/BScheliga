@@ -1,8 +1,18 @@
-### Hi there 👋
+### Hello!
+[![Website](https://www.researchgate.net/?ref=logo&_sg=hubvVFBHlVGbgBpSIm-rkV1r4jisE7rv3Kf4hevkmMPLK9ynP9jz7WviAClQPUw3pYQbZmNEBZWNcp8)](https://www.researchgate.net/profile/Bernhard_Scheliga)
 
-<!--
-**BScheliga/BScheliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Seasoned data wrangler, field scientist, passionate R user, hydrologist, data stewards 
+
+I am a digital research specialist for the Directorate of Digital & Information Services at the University of Aberdeen (UoA). Normally, I support research groups at UoA with their IT related research needs throughout the research life cycle. This can includes providing advice and guidance, training, active research support and contributions. Currently, I work closely with the Aberdeen Centre for Health Data Science.
+
+### Interest
+
+
+### Languages and Tools:
+[<img align="left" alt="R-project" width="26px" src="https://www.r-project.org/Rlogo.png" />][]
+[<img align="left" alt="RStudio" width="26px" src="https://d33wubrfki0l68.cloudfront.net/521a038ed009b97bf73eb0a653b1cb7e66645231/8e3fd/assets/img/rstudio-icon.png" />][]
+[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
