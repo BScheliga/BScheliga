@@ -1,5 +1,5 @@
 ### Hello! Still under construction
-[![Website](https://www.researchgate.net/?ref=logo&_sg=hubvVFBHlVGbgBpSIm-rkV1r4jisE7rv3Kf4hevkmMPLK9ynP9jz7WviAClQPUw3pYQbZmNEBZWNcp8)](https://www.researchgate.net/profile/Bernhard_Scheliga)
+[(https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ResearchGate_Logo.png/220px-ResearchGate_Logo.png)](https://www.researchgate.net/profile/Bernhard_Scheliga)
 
 
 ## Seasoned data wrangler, field scientist, passionate R user, hydrologist, data stewards 
