@@ -1,5 +1,5 @@
 ### Hello! Still under construction
-[![Website][(https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ResearchGate_Logo.png/220px-ResearchGate_Logo.png)](https://www.researchgate.net/profile/Bernhard_Scheliga)
+[![website][<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ResearchGate_Logo.png/220px-ResearchGate_Logo.png">](https://www.researchgate.net/profile/Bernhard_Scheliga)
 
 
 ## Seasoned data wrangler, field scientist, passionate R user, hydrologist, data stewards 
@@ -15,7 +15,7 @@ I am a digital research specialist for the Directorate of Digital & Information 
 [<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />]
 
 
-[Website]: https://www.researchgate.net/profile/Bernhard_Scheliga
+[website]: https://www.researchgate.net/profile/Bernhard_Scheliga
 
 ### saving it for later
 
